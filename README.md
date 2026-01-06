@@ -4,6 +4,9 @@
 버섯(타겟)을 공격하면 아이템이 드랍되고, 플레이어는 아이템을 줍고 사용하면서 MP/스탯/레벨을 성장시킵니다.  
 또한 게임 내 시간이 흐르며(낮/밤) HUD에 시간이 표시됩니다.
 
+## Demo Video
+📽️ Gameplay (Google Drive): https://drive.google.com/file/d/1XLrn-yaBGJ6G-IpgQPPswRUKkB8rZMGl/view?usp=sharing
+
 ---
 
 ## Implemented Features (구현된 기능)
